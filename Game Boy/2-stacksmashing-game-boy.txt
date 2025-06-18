@@ -1,0 +1,21 @@
+stacksmashing / Ghidra Ninja
+
+How to reverse engineer & patch a Game Boy ROM
+
+https://www.youtube.com/watch?v=dQLp5i8oS3Y
+
+Links from the Video:
+
+    My ghidra scripts: https://github.com/ghidraninja/ghidra...
+    GhidraBoy: https://github.com/Gekkio/GhidraBoy/
+    Gekkio @ Disobey 2018:   https://www.youtube.com/watch?v=GBYwjch6oEE
+    Pokered: https://github.com/pret/pokered
+
+
+pokecommunity.com
+
+https://www.pokecommunity.com/forums/rom-hacks-showcase.184/
+
+Other Info:
+Dissecting Pokemon Red Savegame
+https://www.youtube.com/watch?v=VVbRe7wr3G4

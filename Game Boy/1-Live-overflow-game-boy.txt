@@ -1,0 +1,8 @@
+LiveOverflow
+
+Dissecting Pokemon Red Savegame
+
+https://www.youtube.com/watch?v=VVbRe7wr3G4
+
+GBDev: https://gbdev.gg8.se/
+Bulbapedia: https://bulbapedia.bulbagarden.net/wiki/Save_data_structure_(Generation_I)
