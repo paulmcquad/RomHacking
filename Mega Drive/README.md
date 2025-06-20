@@ -4,6 +4,14 @@
 
 * Setup Instructions - [Setup System on Windows 11](1-Setup/1-Setup.md)
 
-## 2 (VDP) Visual Display Processor
+## 2 (ROM) Memory Mappings
 
-* (VDP) Visual Display Processor - [Visual Display Processor](2-VDP/2-VDP.md)
+* (ROM) Memory Mappings - [(ROM) Memory Mappings](2-ROM/2-ROM.md)
+
+## 3 (VDP) Visual Display Processor
+
+* (VDP) Visual Display Processor - [Visual Display Processor](3-VDP/3-VDP.md)
+
+### Link to my research
+
+Research [Research](./RESEARCH.md) 
