@@ -36,3 +36,7 @@ The Genesis capabilities are more modest: 3 bits per channel (512 distinct color
 Palettes are kept in a special portion of the video RAM called "color RAM", which is addressed separately from the main video RAM.
 
 6 colors each, over four distinct palettes.
+
+# Disassembles
+
+[ Toejam & Earl Disassembly](https://github.com/bstreiff/tje-disasm)
