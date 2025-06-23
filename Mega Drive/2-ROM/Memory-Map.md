@@ -2,7 +2,7 @@
 
 ## Memory Map
 
-[Sega Mega Drive/Memory map](https://segaretro.org/Sega_Mega_Drive/Memory_map)
+[Sega Mega Drive/Memory map - Sega Retro](https://segaretro.org/Sega_Mega_Drive/Memory_map)
 
 ## Motorola MC68000 (68K) Area - @ 7.6 MHz
 
