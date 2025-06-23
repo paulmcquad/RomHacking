@@ -4,7 +4,7 @@
 
 [Sega Mega Drive/Memory map](https://segaretro.org/Sega_Mega_Drive/Memory_map)
 
-## Motorola 68K Area - @ 7.6 MHz
+## Motorola MC68000 (68K) Area - @ 7.6 MHz
 
 | Start     | End       | Size  | Description                                                    |
 |-----------|-----------|-------|----------------------------------------------------------------|
@@ -16,7 +16,16 @@
 | $0xA11000 | $0xA11FFF |       | [Z80 Control](./Memory-Map.md#z80-control-area)                |
 | $0xA14000 | $0xA14003 |       | [TMSS "SEGA"](https://segaretro.org/TradeMark_Security_System) |
 | $0xC00000 | $0xDFFFFF |       | [VDP Ports](Memory-Map.md#visual-display-processor---vdp-area) |
-| $0xFF0000 | $0xFFFFFF |       | 68000 RAM                                                      |
+| $0xFF0000 | $0xFFFFFF |       | 68000 RAM (Work RAM)                                           |
+
+### Memory Type & Breakpoints
+
+| Memory type | Address    | Alternative address    |
+|-------------|------------|------------------------|
+| VRAM        | 0x00D00000 | DBG_VDP_VRAM:00D00000  |
+| CRAM        | 0x00D10000 | DBG_VDP_CRAM:00D10000  |
+| VSRAM       | 0x00D20000 | DBG_VDP_VSRAM:00D20000 |
+
 
 ### Zilog Z80 Area - @ 3.58 MHz
 
