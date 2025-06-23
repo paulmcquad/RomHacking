@@ -18,7 +18,7 @@
 | $0xC00000 | $0xDFFFFF |       | [VDP Ports](Memory-Map.md#visual-display-processor---vdp-area) |
 | $0xFF0000 | $0xFFFFFF |       | 68000 RAM (Work RAM)                                           |
 
-### Memory Type & Breakpoints
+### Memory Type & Breakpoints (IDA Pro - GensIDA Debugger)
 
 | Memory type | Address    | Alternative address    |
 |-------------|------------|------------------------|
